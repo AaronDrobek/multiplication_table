@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="mulitplication_table" />
+        <module name="multiplication_table" />
       </profile>
     </annotationProcessing>
   </component>

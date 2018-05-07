@@ -1,4 +1,8 @@
+package com.drobek.practice;
+
 import java.util.Arrays;
+
+
 import java.util.Scanner;
 
 public class Main {
